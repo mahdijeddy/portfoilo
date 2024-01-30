@@ -1,0 +1,10 @@
+.list_container {
+background: #090a01;
+color: rgb(245, 245, 26);
+clip-path: polygon(100% 1%, 0% 0%, 0 75%, 12% 100%, 88% 100%, 100% 75%);
+}
+
+.shadow {
+    box-shadow: 1px 1px 13px 1px rgb(201, 201, 201);
+
+ }
