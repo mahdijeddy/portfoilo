@@ -1,3 +1,8 @@
 {
-    "test":"navbar.json English lang"
+    "test":"navbar.json English lang",
+    "name":"Mahdi Jeddi",
+    "frontDev":"front end developer",
+    "resume":"Resume",
+    "projects":"Projects",
+    "contact":"Contact"
 }

@@ -8,7 +8,7 @@ import {languages} from '@/app/i18n/setting'
 
 export const metadata = {
   title: "mahdi jeddi",
-  description: "mahdijeddi portfoilo - web-developer android developer front-end developer",
+  description: "mahdijeddi portfoilo - web-developer android developer front-end developer برنامه نویس برنامه نویس-اندروید اندرویدکار فرانت اند کار ",
 };
 
 

@@ -1,3 +1,8 @@
 {
-    "test":"navbar.json farsi lang"
+    "test":"navbar.json farsi lang",
+    "name":"مهدی جدی",
+    "frontDev":"توسعه دهنده فرانت",
+    "resume":"رزومه",
+    "projects":"پروژه ها",
+    "contact":"ارتباط"
 }
