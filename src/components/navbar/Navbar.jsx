@@ -31,19 +31,19 @@ async function Navbar({ lng }) {
 
         <ul className='flex gap-2 justify-center items-center'>
 
-          <li className='hover:scale-105 p-1'><Link className='text-xs text-gray-600' href={'/resume'}>{t("resume")}</Link></li>
+          <li className=' hover:scale-105 p-1'><Link className='text-xs text-gray-600' href={'/resume'}>{t("resume")}</Link></li>
 
           {/* div for horizontal lines */}
           <div className='border-s-[1px] h-6 border-solid border-gray-300' />
           {/*  */}
 
-          <li className='hover:scale-105 p-1'><Link className='text-xs text-gray-600' href={'/projects'}>{t("projects")}</Link></li>
+          <li className=' hover:scale-105 p-1'><Link className='text-xs text-gray-600' href={'/projects'}>{t("projects")}</Link></li>
 
           {/* div for horizontal lines */}
           <div className='border-s-[1px] h-6 border-solid border-gray-300' />
           {/*  */}
 
-          <li className='hover:scale-105 p-1'><Link className='text-xs text-gray-600' href={'/contact-me'}>{t("contact")}</Link></li>
+          <li className=' hover:scale-105 p-1'><Link className='text-xs text-gray-600' href={'/contact-me'}>{t("contact")}</Link></li>
 
         </ul>
 
