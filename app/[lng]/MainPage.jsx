@@ -4,7 +4,7 @@ import React from 'react'
 
 function MainPage({lng}) {
   return (
-    <div className='flex pt-2 justify-center items-center h-[500px] max-w-7xl mx-auto'>
+    <section className='flex  justify-center items-center flex-1 max-w-7xl mx-auto'>
         {/* ************ left section ******* */}
         <div className='flex-1  justify-end flex '>
             <img alt='me | mahdi jeddi' src={'/m.PNG'} width={400} height={400} className='rounded-full mx-4 grayscale-[1]'/>
@@ -30,7 +30,7 @@ function MainPage({lng}) {
              </div>
            </div>
         </div>
-    </div>
+    </section>
   )
 }
 

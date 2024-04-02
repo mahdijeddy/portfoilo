@@ -7,14 +7,14 @@ export default async function Home({params : {lng}}) {
 
   const { t } = await useTranslation(lng)
   return (
-    <main className="w-screen h-screen bg-slate-200 ">
+    <main className="w-full h-screen flex flex-col bg-slate-200 select-none">
       {/* TOP SECTION */}
         <C.Navbar lng={lng} />
       {/* ----main----- */}
       <MainPage lng={lng}/>
 
       {/* ----footer----- */}
-
+    <C.Footer lng={lng}/>
     </main>
   );
 }
